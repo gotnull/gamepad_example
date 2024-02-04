@@ -758,5 +758,5 @@
 /Users/fulvio/development/flutter/packages/flutter_tools/lib/src/build_system/targets/icon_tree_shaker.dart
 /Users/fulvio/development/flutter/packages/flutter_tools/lib/src/build_system/targets/macos.dart
 /Users/fulvio/development/flutter/packages/flutter_tools/lib/src/build_system/targets/native_assets.dart
-/Users/fulvio/development/test_macos/lib/main.dart
-/Users/fulvio/development/test_macos/pubspec.yaml
+/Users/fulvio/development/gamepad_example/lib/main.dart
+/Users/fulvio/development/gamepad_example/pubspec.yaml
