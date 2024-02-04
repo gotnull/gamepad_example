@@ -1,0 +1,30 @@
+{
+  "name": "gamepads_darwin",
+  "version": "0.0.1",
+  "summary": "MacOS implementation of gamepads.",
+  "description": "MacOS implementation of gamepads, a Flutter plugin to handle gamepad input across multiple platforms.",
+  "homepage": "https://flame-engine.org",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Luan": "luan@blue-fire.xyz"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "dependencies": {
+    "FlutterMacOS": [
+
+    ]
+  },
+  "platforms": {
+    "osx": "10.11"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
